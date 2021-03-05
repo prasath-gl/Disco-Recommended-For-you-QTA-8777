@@ -1,0 +1,597 @@
+:TLC:
+  :name: "TLC GO"
+  :first_list_show: "Till Death Do Us Part"
+  :show_search:
+    :show_name_atv: "Renovation Realities on HGTV"
+    :show_name_atv_qoe: "Serengeti"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Say Yes to the Dress: Australia"
+    :search_string_atv_qoe: "Serengeti"
+    :show_desc: ""
+    :show_with_extra_clips: "Magnolia Table with Joanna Gaines"
+    :special_show_with_multiple_episodes: "Murder U"
+    :special_show_with_single_episode: "Wild Food"
+    :single_season_show: "7 Water Wonders"
+    :multiple_season_show: "Giada Entertains"
+    :episode_1: "TeamPluto"
+    :upnextepisode: "IBM and Sesame Workshop"
+    :continueWatching: "A Baby Story"
+    :show_with_resume: "MythBuster"
+    :upnextShow: "A Baby Story"
+    :upnext_playlistshow: "Paydirt"
+    :adshow1: "Twisted Sisters"
+    :adshow2: "Fear thy neighbor"
+    :adshow3: "Diners, dive-ins,and dives"
+    :adshow4: "See no evil"
+    :adshow5: "Gold Rush"
+    :adshow6: "Cake Boss"
+    :adshow7: "Home town"
+    :adshow8: "90 day fiance before the 90 days"
+    :jip_show_name_atv: "Property Brothers"
+    :show_with_no_season: "Built to survive"
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: "sister wives"
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: "https://discoveryplus.com"
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:FOOD:
+  :name: "Food Network"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Man Vs Food"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Man Vs Food"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:IDS:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:AHC:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:VEL:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:TRAV:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:SCI:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:OWN:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:HGTV:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DSF:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DSC:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DLF:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DIY:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DFC:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DES:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:DAM:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:COOK:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
+
+:APL:
+  :name: "ID GO"
+  :first_list_show: ""
+  :show_search:
+    :show_name_atv: "Still a mystery"
+    :show_name_season_episode: ""
+    :unlocked_season: ""
+    :exit_app_message: ""
+    :invalidShowName: ""
+    :locked_show: ""
+    :search_string_atv: "Still a mystery"
+    :show_desc: ""
+    :episode_1: ""
+  :watch_live: ""
+  :show_hero_by_letter_b: ""
+  :show_with_seasons:
+    :show_name_atv: ""
+    :season_1: ""
+    :season_1_episode_1: ""
+  :about:
+    :title: ""
+  :help:
+    :screen_title: ""
+    :main_title: ""
+  :contact_details:
+    :url: ""
+    :sub_title: ""
+  :deeplink_prefix: ""
+  :video_playback:
+     :shortform_video: ""
+  :affiliates_list: ["DIRECTV","Mock Partner"]
